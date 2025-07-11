@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is my **personal** GitHub account where I work on side projects and open-source contributions.
+
+Feel free to explore my repositories!
+
 <!--
 **jrauber/jrauber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
